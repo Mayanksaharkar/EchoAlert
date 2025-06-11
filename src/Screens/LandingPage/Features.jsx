@@ -11,13 +11,10 @@ import {
 } from "react-icons/fa";
 import { Swiper, SwiperSlide } from 'swiper/react';
 
-// Import Swiper styles
 import 'swiper/css';
 import 'swiper/css/effect-coverflow';
 import 'swiper/css/pagination';
 
-
-// import required modules
 import { Autoplay, EffectCoverflow, Pagination } from 'swiper/modules';
 
 const iconStyles = {
